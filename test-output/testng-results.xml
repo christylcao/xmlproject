@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-23T09:29:13 CDT" name="regression" finished-at="2023-06-23T09:29:31 CDT" duration-ms="18448">
+    <groups>
+    </groups>
+    <test started-at="2023-06-23T09:29:13 CDT" name="LoginTest" finished-at="2023-06-23T09:29:31 CDT" duration-ms="18448">
+      <class name="test.ListCustomerTest">
+        <test-method signature="userShouldBeAbleAddCustomerFromListCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:test.ListCustomerTest@63376bed]" started-at="2023-06-23T09:29:13 CDT" name="userShouldBeAbleAddCustomerFromListCustomer" finished-at="2023-06-23T09:29:31 CDT" duration-ms="18415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@techfios.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Selenium10578]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bank Of America]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[abdojwmd@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[000000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[123456 Selenium Lane]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Edmond]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Oklahoma]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[75896]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Svalbard And Jan Mayen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleAddCustomerFromListCustomer -->
+      </class> <!-- test.ListCustomerTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- regression -->
+</testng-results>
